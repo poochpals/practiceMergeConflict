@@ -1,0 +1,2 @@
+# practiceMergeConflict
+Practice
